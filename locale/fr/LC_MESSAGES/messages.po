@@ -19,4 +19,8 @@ msgstr ""
 
 #: /home/francois/devel/abide-demo/views/homepage.ejs:3
 msgid "Mozilla Persona"
-msgstr "Persona en français"
+msgstr "Persona par Mozilla"
+
+#: /home/francois/devel/abide-demo/views/homepage.ejs:6
+msgid "Hi there"
+msgstr "Allo toi"

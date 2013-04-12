@@ -21,3 +21,7 @@ msgstr ""
 msgid "Mozilla Persona"
 msgstr ""
 
+#: /home/francois/devel/abide-demo/views/homepage.ejs:6
+msgid "Hi there"
+msgstr ""
+
