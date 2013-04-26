@@ -3,8 +3,9 @@ var express = require('express');
 var app = express();
 
 app.use(i18n.abide({
-  supported_languages: ['en-US'],
+  supported_languages: ['en-US', 'fr', 'it-CH'],
   default_lang: 'en-US',
+  debug_lang: 'it-CH',
   translation_directory: 'static/i18n'
 }));
 app.use(express.static('static'));
