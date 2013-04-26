@@ -24,3 +24,15 @@ msgstr "Persona par Mozilla"
 #: /home/francois/devel/abide-demo/views/homepage.ejs:6
 msgid "Hi there"
 msgstr "Allo toi"
+
+#: /home/francois/devel/abide-demo/views/homepage.ejs:8
+msgid "<p>Buy <a href=\"/buy?prod=blue&tyep=ticket\">Blue Tickets</a> Now!</p>"
+msgstr "<p>Acheter <a href=\"/buy?prod=blue&tyep=ticket\">des billets bleus</a> maintenant !</p>"
+
+#: /home/francois/devel/abide-demo/views/homepage.ejs:9
+msgid "Buy <a href=\"%s\">Blue Tickets</a> Now!"
+msgstr "Acheter <a href=\"%s\">des billets bleus</a> maintenant !"
+
+#: /home/francois/devel/abide-demo/views/homepage.ejs:10
+msgid "Buy <a href=\"%(url)s\">Blue Tickets</a> Now!"
+msgstr "Acheter <a href=\"%(url)s\">des billets bleus</a> maintenant !"

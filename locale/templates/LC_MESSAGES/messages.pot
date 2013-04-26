@@ -25,3 +25,15 @@ msgstr ""
 msgid "Hi there"
 msgstr ""
 
+#: /home/francois/devel/abide-demo/views/homepage.ejs:8
+msgid "<p>Buy <a href=\"/buy?prod=blue&tyep=ticket\">Blue Tickets</a> Now!</p>"
+msgstr ""
+
+#: /home/francois/devel/abide-demo/views/homepage.ejs:9
+msgid "Buy <a href=\"%s\">Blue Tickets</a> Now!"
+msgstr ""
+
+#: /home/francois/devel/abide-demo/views/homepage.ejs:10
+msgid "Buy <a href=\"%(url)s\">Blue Tickets</a> Now!"
+msgstr ""
+
